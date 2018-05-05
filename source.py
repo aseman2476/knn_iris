@@ -74,7 +74,7 @@ print("tedad hamsayegane nazdik (k): 10")
 # count = 0
 #	d = np.sqrt((n[0] - point[0]) ** 2 + (n[1] - point[1]) ** 2)
 #	distance.append([d, y[count]])
-#	count += 1
+
 
 s = 0
 ve = 0
